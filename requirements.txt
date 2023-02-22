@@ -1,1 +1,5 @@
 Flask==2.2.2
+aioflask
+gunicorn
+python-decouple
+requests
