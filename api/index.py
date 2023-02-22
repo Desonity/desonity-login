@@ -12,7 +12,7 @@ BASE_API = "https://diamondapp.com/api/v0/"
 app = Flask(__name__)
 # feel free to change secret key but keep it private
 # This is used to store data in flask session locally in the browser
-# idk how safe this is tho
+# idk how safe this is tho :P
 app.secret_key = "YAMETEKUDASAI"
 app.debug = True
 
